@@ -1,3 +1,11 @@
+<p align="center">
+  <h3 align="center">Python Essentials 1</h3>
+</p>
+
+[![certificate ui][product-ui]](https://example.com)
+
+[product-ui]: certificate.jpg
+
 # Cisco Python Course Code Repository
 
 Python Essentials 1
