@@ -28,4 +28,4 @@ The repository is organized into the following main sections:
 
 - **Badge: PE: Module 4. Functions, Tuples, Dictionaries, Exceptions, and Data Processing**
 
-  - This module covers fundamental concepts related to functions, tuples, dictionaries, exception handling, and data processing in Python
+  - This module covers fundamental concepts related to functions, tuples, dictionaries, exception handling, and data processing in Python.
